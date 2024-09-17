@@ -1,0 +1,268 @@
+@media screen and (max-width: 800px) {
+
+    *{
+        align-items: center;
+    }
+    .tophead{
+        flex-direction: column;
+        align-items: baseline;
+        margin: 0px 10px;
+        display: none;
+    }
+    .uphead{
+        flex-direction: column;
+        align-items: start;
+        margin: 0 30px;
+    }
+
+   
+    
+    .topheadleft{
+       flex-direction: column;
+    }
+    .topheadright{
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .navbar{
+        flex-direction: column;
+        margin-top: 30px;
+    }
+    .navlist{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .menu{
+        display: block;
+    }
+
+    .navlogo{
+        margin: 20px 0;
+        display: flex;
+        justify-content: space-between;
+        gap: 100px;
+    }
+    .hero{
+        flex-direction: column;
+        margin: 30px 30px;
+    
+    }
+    .hero img{
+        width: 100%;
+        
+    }
+
+    .lefthero{
+        width: 100%;
+    }
+    .righthero{
+        
+        width: 100%;
+    }
+
+    .input input{
+        
+        width: 100%;
+    }
+
+    .customer{
+        margin-top: 20px;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .companylogo{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .companylogo img{
+        width: 100%;
+    }
+
+    .whoare{
+        flex-direction: column;
+        margin: 0 30px;
+    }
+
+    .whoright{
+        margin-top: 30px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .whoright img{
+        width: 100%;
+    }
+
+    .checkouthead{
+        text-align: center;
+        margin: 0 30px;
+    }
+
+    .box img{
+        width: 100%;
+    }
+    .properties{
+        flex-direction: column;
+        text-align: center;
+        margin: 0 30px;
+    }
+
+    .protext{
+        width: 100%;
+        
+    }
+
+    .listbox{
+
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .cardbox{
+        flex-direction: column;
+    }
+
+
+    .areahead p{
+        text-align: center;
+         
+    }
+    .areahead h1{
+        text-align: center;
+        font-size: 34px;
+    }
+
+    .areapic{
+        margin: 0 30px;
+    }
+
+    .smallone{
+        
+        flex-direction: column;
+    }
+    .tworow{
+        flex-direction: column;
+    }
+    
+   
+    .areapic img{
+        width: 100%;
+    }
+
+    .memberbox{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        row-gap: 20px;
+        
+    }
+    .member img{
+        width: 60%;
+        margin: 0 30px;
+    }
+
+    .member h1 , p{
+        text-align: center;
+        font-size: small;
+        margin: 2px;
+    }
+
+    .blog{
+        margin: 0 10px;
+        text-align: center;
+        
+    }
+    .blog h1, .blog p{
+
+        text-align: center;
+    }
+    .blog img{
+        width: 100%;
+    }
+    .bloghead p {
+        text-align: center;
+    }
+    .bloghead  h1{
+        text-align: center;
+    }
+
+    .blogbox{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .text p{
+        text-align: center;
+    }
+
+
+    .textbox{
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .lefttest{
+        width: 100%;
+        text-align: center;
+    }
+    .lefttest h1{
+        text-align: center;
+    }
+    
+    .righttest{
+        width: 70%;
+        margin-top: 30px;
+    }
+
+    .custom{
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    .agenttext{
+        text-align: center;
+        margin: 20px 20px;
+    }
+
+    .agentbox{
+        flex-direction: column;
+    }
+    .pic img{
+        width: 100%;
+    }
+
+    .agentbox button{
+        margin: 20px 0;
+    }
+
+    .footerbox{
+
+        align-items: start;
+        margin: 0 30px;
+        flex-direction: column;
+        
+    }
+    .footerbox ul{
+        list-style: none;
+        margin: 20px 0;
+    }
+
+    .firstchild{
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .rights{
+        flex-direction: column;
+    }
+
+    .right ul{
+        display: none;
+        padding: 5px;
+    
+    }
+  }
+
+
+  /* --------------------- */
+
